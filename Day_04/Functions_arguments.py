@@ -43,8 +43,14 @@
 
 # a.Arbitrary Arguments:
 
-def name(*name):
-    print("Hello",name[0],name[1],name[2])
+# def name(*name):
+#     print("Hello",name[0],name[1],name[2])
 
-name("Vivek","Aman","Shobhit")
+# name("Vivek","Aman","Shobhit")
 
+# Keyword Arbitrar Arguments:
+def name (**name):
+    print("Hello",name["first_name"],name["second_name"],name["last_name"])
+
+
+name (first_name = "vivek",second_name = "aman", last_name = "singh")
