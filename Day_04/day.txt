@@ -9,6 +9,17 @@ We can provide arguments with key = value, this way the interpreter recognizes t
 parameter name. Hence, the the order in which the arguments are passed does not matter.
 
 3.Variable length Arguments
+Sometimes we may need to pass more arguments than those defined in the actual function. This can be 
+done using variable-length arguments.
+
+There are two ways to achieve this:
+a.Arbitrary Arguments:
+While creating a function, pass a * before the parameter name while defining the function. The function
+accesses the arguments by processing them in the form of tuple.
+
+b.Keyword Arbitrary Arguments:
+While creating a function, pass a * before the parameter name while defining the function. The function
+accesses the arguments by processing them in the form of dictionary.
 
 
 4.Required Arguments
@@ -16,3 +27,5 @@ In case we don’t pass the arguments with a key = value syntax, then it is nece
 arguments in the correct positional order and the number of arguments passed should match with
 actual function definition.
 
+return Statement:
+The return statement is used to return the value of the expression back to the calling function.
