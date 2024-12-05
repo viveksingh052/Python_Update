@@ -1,0 +1,13 @@
+Python Sets:
+1.Sets are unordered collection of data items.
+2.They store multiple items in a single variable. Set items are separated by commas and enclosed 
+within curly brackets {}.
+3.Sets are unchangeable, meaning you cannot change items of the set once created.
+4.Sets do not contain duplicate items.
+
+Joining Sets:
+1.Union and Update()
+2.Intersection and Intersection_update()
+3.Symmetric_difference() and Symmetric_difference_update()
+4.difference() and difference_update()
+
