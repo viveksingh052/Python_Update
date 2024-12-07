@@ -1,0 +1,14 @@
+1.Exception Handling
+2.Finally Keyword
+3.Custom eroor
+4.Exercise
+5.Secret Code Language
+6.Short Hand If Else Statments
+7.Enumerate
+8.Virtual Environment
+9.How import works in Python
+10.if __name__ "__main__" in Python
+11.os module in python
+12.Exercise4
+13.Local Variable vs Global Variable
+14.File IO in python
