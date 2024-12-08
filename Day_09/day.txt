@@ -1,0 +1,2 @@
+1.Enumerate Function
+2.Short Hand If Else 
