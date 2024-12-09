@@ -1,4 +1,5 @@
 def show():
     print("My name is vivek singh")
 
-show()
+if __name__ == "__main__":
+    show()
