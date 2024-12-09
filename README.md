@@ -1,6 +1,7 @@
 ![wp3105538-python-wallpapers](https://github.com/user-attachments/assets/f68b3b85-a6e4-4222-98c3-ee5406d2e9d2)
 ![wp3105541-python-wallpapers](https://github.com/user-attachments/assets/35aea781-abf0-4295-8725-b1a34b0e798c)
-My 20-Day Python Journey
+My 20-Day Python Journey!
+
 Welcome to my repository where I document my journey of learning Python from scratch to advanced concepts in just 20 days! This repository is a collection of daily projects, code snippets, exercises, and notes that reflect my progress as I dive deeper into the world of Python programming.
 
 🚀 Project Overview
@@ -37,11 +38,13 @@ VS Code: Code editor
 Jupyter Notebooks (for data science-related topics)
 Flask/Django (for web development)
 BeautifulSoup & Requests (for web scraping)
+
 📖 Why This Repository?
 Learning in Public: I believe in learning by doing, and this repository serves as a public log of my progress. By sharing my work, I hope to help others who are also starting their Python journey.
 Hands-on Approach: This is not just a theoretical collection. The focus is on building real-world projects and learning through hands-on coding.
 Consistency: By posting daily, I aim to create a habit of continuous learning and challenge myself to improve every day.
-🌱 How You Can Benefit
+
+🌱 How You Can Benefit:
 Learn Python: If you're new to Python or programming in general, you can follow along with my journey and learn alongside me. Each day’s content builds on the previous day's knowledge.
 Explore Projects: Browse the code and explore small projects and exercises that reinforce key Python concepts.
 Contribute: Feel free to open issues or submit pull requests if you have improvements or suggestions. I’m constantly striving to improve my code and would love to collaborate!
