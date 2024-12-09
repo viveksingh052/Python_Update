@@ -53,7 +53,7 @@ To get started, clone the repository and follow the instructions in each day's f
 
 bash
 Copy code
-git clone https://github.com/yourusername/20day-python-journey.git
+git clone https://github.com/7310038081/Python_Update.git
 cd 20day-python-journey
 For most projects, you'll need to install the required dependencies. You can find them in requirements.txt for easy installation using pip:
 
